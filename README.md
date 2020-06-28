@@ -13,6 +13,7 @@
 3. Run  ```yarn run seed``` or ```npm run seed``` to add intial data to database.
 4. Run  ```yarn run start``` or ```npm run start``` to start dev server.
 5. Listen to port ```8000```.
+6. Server status check ```http://localhost:8000/api```.
 
 ### Bonus
 
