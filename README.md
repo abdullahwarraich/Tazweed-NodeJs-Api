@@ -15,7 +15,7 @@
 5. Listen to port ```8000```.
 6. Server status check ```http://localhost:8000/api```.
 
-### Bonus
+### Extras
 
 1. Use nodemon inside of root directory to have automatic restarting of server during development.
 2. Use robo 3T to have a database gui.
