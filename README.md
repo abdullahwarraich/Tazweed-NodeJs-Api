@@ -1,4 +1,4 @@
-# Tazweed Api 
+# Rest Api's
 
 ### Prerequisites
 
