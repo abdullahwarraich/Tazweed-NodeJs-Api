@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "seed": "node ./server/seeds/seller.js",
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "format": "prettier-standard --format"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -14,6 +15,7 @@
     "http-errors": "~1.6.3",
     "mongoose": "^5.9.19",
     "mongoose-seed": "^0.6.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "prettier-standard": "^16.4.1"
   }
 }
